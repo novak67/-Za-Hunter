@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		75138134241011990006E754 /* LocationsDetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 75138133241011990006E754 /* LocationsDetailsViewController.swift */; };
 		753BB158240D69A300305751 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 753BB157240D69A300305751 /* AppDelegate.swift */; };
 		753BB15A240D69A300305751 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 753BB159240D69A300305751 /* SceneDelegate.swift */; };
 		753BB15C240D69A300305751 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 753BB15B240D69A300305751 /* ViewController.swift */; };
@@ -35,6 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		75138133241011990006E754 /* LocationsDetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationsDetailsViewController.swift; sourceTree = "<group>"; };
 		753BB154240D69A300305751 /* 'Za Hunter.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "'Za Hunter.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		753BB157240D69A300305751 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		753BB159240D69A300305751 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -102,6 +104,7 @@
 				753BB157240D69A300305751 /* AppDelegate.swift */,
 				753BB159240D69A300305751 /* SceneDelegate.swift */,
 				753BB15B240D69A300305751 /* ViewController.swift */,
+				75138133241011990006E754 /* LocationsDetailsViewController.swift */,
 				753BB15D240D69A300305751 /* Main.storyboard */,
 				753BB160240D69A600305751 /* Assets.xcassets */,
 				753BB162240D69A600305751 /* LaunchScreen.storyboard */,
@@ -259,6 +262,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				75138134241011990006E754 /* LocationsDetailsViewController.swift in Sources */,
 				753BB15C240D69A300305751 /* ViewController.swift in Sources */,
 				753BB158240D69A300305751 /* AppDelegate.swift in Sources */,
 				753BB15A240D69A300305751 /* SceneDelegate.swift in Sources */,
