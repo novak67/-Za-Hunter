@@ -40,10 +40,10 @@
             </objects>
             <point key="canvasLocation" x="1047.8260869565217" y="107.8125"/>
         </scene>
-        <!--Locations Details View Controller-->
+        <!--Location Details View Controller-->
         <scene sceneID="tsL-J0-XHD">
             <objects>
-                <viewController id="PcV-l9-qIe" customClass="LocationsDetailsViewController" customModule="_Za_Hunter" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="PcV-l9-qIe" customClass="LocationDetailsViewController" customModule="_Za_Hunter" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="R5n-QX-Bco">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
